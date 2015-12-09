@@ -8,6 +8,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("hola mundo");
             int i = 0;
+            int x = 0;
             if (i > 0)
             {
             }
