@@ -8,7 +8,6 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("hello world");
             int i = 0;
-            int x = 0;
             if (i > 0)
             {
             }
