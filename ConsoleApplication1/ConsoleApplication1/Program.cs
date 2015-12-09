@@ -7,6 +7,10 @@ namespace ConsoleApplication1
         private static void Main(string[] args)
         {
             Console.WriteLine("hola mundo");
+            int i = 0;
+            if (i > 0)
+            {
+            }
         }
     }
 }
