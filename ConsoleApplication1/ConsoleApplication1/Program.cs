@@ -10,6 +10,7 @@ namespace ConsoleApplication1
             int i = 0;
             if (i > 0)
             {
+                Console.WriteLine("if");
             }
         }
     }
