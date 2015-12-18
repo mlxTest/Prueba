@@ -6,11 +6,12 @@ namespace ConsoleApplication1
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("hola mundo");
+            Console.WriteLine("hello world");
             int i = 0;
+            int x = 0;
             if (i > 0)
             {
-                Console.WriteLine("if");
+                x = 18;
             }
         }
     }
