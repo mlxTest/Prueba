@@ -11,7 +11,7 @@ namespace ConsoleApplication1
             int x = 0;
             if (i > 0)
             {
-                x = 24;
+                x = 18;
             }
         }
     }
